@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / URL-encoded files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / OS / Editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# Archives & export helper
+*.zip
+export_doc.py
+
+# Redundant duplicate-named submission artifacts (canonical files kept)
+* - MSDSF25A007.py
+* - MSDSF25A007.md
