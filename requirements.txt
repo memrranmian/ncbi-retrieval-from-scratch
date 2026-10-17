@@ -1,0 +1,19 @@
+# ==============================================================================
+# Bioinformatics Assignment #01: NCBI Retrieval in Python from Scratch
+# Course: Bioinformatics — MS Data Science (PUCIT)
+# Student: Muhammad Imran Mian (Roll No: MSDSF25A007)
+# ==============================================================================
+#
+# Core Assignment Pipeline:
+# The core script (retrieve_sequences_plain.py) strictly uses the Python 
+# standard library (urllib, re, ssl, time, os, sys) to demonstrate from-scratch 
+# network retrieval and flat-file parsing without third-party dependencies.
+#
+# Minimum Python Version:
+# Python >= 3.8
+#
+# Optional Documentation & Export Tools:
+# python-docx is only used for generating formatted Word (.docx) project reports.
+# ==============================================================================
+
+python-docx>=1.1.0
